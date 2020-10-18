@@ -9,7 +9,7 @@ email: your-email@domain.com
 author: obdelnik
 copyright: Copyright © 2020
 description: >- # this means to ignore newlines until "baseurl:"
-  This is description of mostly DIY projects and related thoughts. The porpose is twofolded. 
+  Obdelnik is description of mostly DIY projects and related thoughts. The porpose is twofolded. 
   Firstly to support my memory and keep track of references and secondly a for mot to brag about the project.
 
 baseurl: "/jekyll-theme-yat" # the subpath of your site, e.g. /blog
@@ -25,13 +25,13 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+header_transparent: true
 
 # Google analytics
 # google_analytics: [Tracking ID]
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+sitemap: false
 
 # If you want to change site language, you can set lang option
 # lang: "en"  # default lang is en
@@ -96,8 +96,8 @@ yat:
 defaults:
    home:
      heading: "OBDÉLNÍK"
-     subheading: "Ooo obdelnik"
-     banner: "assets/images/banners/drevicko9.jpg"
+     subheading: ""
+     banner: "assets/images/banners/drevicko8.jpg"
 
 # Pagination setting
 # paginate: 5
