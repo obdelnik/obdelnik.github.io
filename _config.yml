@@ -95,7 +95,7 @@ yat:
 #Page default value
 defaults:
    home:
-     heading: "OBDÉLNÍK
+     heading: "OBDÉLNÍK"
      subheading: "Ooo obdelnik"
      banner: "assets/images/banners/drevicko9.jpg"
 
