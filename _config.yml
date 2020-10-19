@@ -12,8 +12,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Obdelnik is description of mostly DIY projects and related thoughts. The porpose is twofolded. 
   Firstly to support my memory and keep track of references and secondly a for mot to brag about the project.
 
-baseurl: "/jekyll-theme-yat" # the subpath of your site, e.g. /blog
-url: "https://obdelnik.github.io/jekyll-theme-yat/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://obdelnik.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
